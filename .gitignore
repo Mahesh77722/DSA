@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Data_Structures_Algorithms/.vs/Data_Structures_Algorithms
+/Data_Structures_Algorithms/Data_Structures_Algorithms/bin/Debug/net8.0
+/Data_Structures_Algorithms/Data_Structures_Algorithms/obj
